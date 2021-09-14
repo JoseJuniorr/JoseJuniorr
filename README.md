@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello, i'm José Jr👋
+
+### I work as an infrastructure analyst, with a background in Systems Analysis and Development.
+
+### I'm a student in skills development using the javascript stack.
+
+
+
+
+
+
+
 
 <!--
 **JoseJuniorr/JoseJuniorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
