@@ -1,8 +1,7 @@
 ### Hello, i'm José Jr👋
 
-### I work as an infrastructure analyst, with a background in Systems Analysis and Development.
+### I work as a frontend developer at smarppy.
 
-### I'm a student in skills development using the javascript stack.
 
 
 
