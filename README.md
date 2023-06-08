@@ -1,6 +1,6 @@
 ### Hello, i'm José Jr👋
 
-### frontend developer.
+### frontend developer
 
 
 
