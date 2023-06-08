@@ -1,6 +1,6 @@
 ### Hello, i'm José Jr👋
 
-### I work as a frontend developer at smarppy.
+### frontend developer.
 
 
 
