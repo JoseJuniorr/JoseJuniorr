@@ -1,6 +1,10 @@
-### Hello, i'm José Jr👋
+### Hello, I'm José Jr 👋
 
-### frontend developer
+### Frontend Developer
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-vieira-s-junior/)](https://www.linkedin.com/in/josé-vieira-s-junior/)
 
 
 
